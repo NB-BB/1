@@ -1,11 +1,11 @@
-http=a1.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港
+http=a1.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=①香港
 
-http=a4.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港
+http=a4.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=②香港
 
-http=a3.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港
+http=a3.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=③香港
 
-http=a2.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港
+http=a2.ap.fastqvpn.com:29980, username=365036939641880576, password=1114a99d-df04-4951-a5e0-ca617916d09e, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=④香港
 
-http=a2.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港
+http=a2.ap.fastqvpn.com:29980, username=365270615478763520, password=fc147159-b35b-4c1c-babf-bb3abe2a301d, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=⑤香港
 
-http=a3.ap.fastqvpn.com:29980, username=379983028002226176, password=1c4c2bb0-e93a-45d4-be71-4231fc9c0107, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=香港
+http=a3.ap.fastqvpn.com:29980, username=379983028002226176, password=1c4c2bb0-e93a-45d4-be71-4231fc9c0107, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=⑥香港

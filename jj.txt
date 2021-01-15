@@ -4,10 +4,10 @@ vmess=129.226.175.80:80, method=aes-128-gcm, password=13d7c37e-922f-61ad-636a-9a
 
 http=a1.er3.xyz:29980, username=359719451865645056, password=3de38b27-6a38-4c7a-be77-54921b019921, over-tls=true, tls-verification=true, fast-open=false, udp-relay=false, tag= http=a2.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=公众号少年歌行pro赠送高速1
 
-http=a3.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=赠送高速2🙂
+http=a3.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=赠送高速🙂
 
-http=a4.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=赠送高速3🥺
+http=a4.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=赠送高速🥺
 
-http=a1.er3.xyz:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=赠送高速4🤪
+http=a1.er3.xyz:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=赠送高速🤪
 
-http=a1.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=赠送高速5😎
+http=a1.ap.fastqvpn.com:29980, username=339351151927361536, password=352f1887-55fc-4d33-bea7-66fbba8a2207, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=赠送高速😎

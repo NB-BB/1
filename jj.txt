@@ -1,2 +1,2 @@
 shadowsocks=cn2.flushingx.com:1487, method=rc4-md5, password=7611866184, fast-open=false, udp-relay=false, tag=ღ寒梅❀
-http=a1.ap.fastqvpn.com:29980, username= 415089338401947648, password=a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=ღ一件连
+http=a1.ap.fastqvpn.com:29980, username= 415089338401947648, password=a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=ღ一键连

@@ -1,9 +1,2 @@
-http=a1.ap.fastqvpn.com:29980, username= 415089338401947648, password=a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=㉿自用提取
-http=ap1-jp.er3.xyz:29985, username= 415089338401947648, password= a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=㉿日本
-http=ap1-us.er3.xyz:29988, username= 415089338401947648, password= a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=㉿美国
-http=ap1-sg.er3.xyz:29986, username= 415089338401947648, password= a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=㉿新加坡LINODE
-http=ap1-uk.er3.xyz:29987, username= 415089338401947648, password= a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=㉿英国
-http=a1.er3.xyz:29980,username= 415089338401947648, password= a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=㉿新加坡COOLNET
-http=ap1-ge.er3.xyz:29984, username= 415089338401947648, password= a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=㉿德国
-http=ap1-ca.er3.xyz:29983, username= 415089338401947648, password= a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=㉿加拿大
-http=ap1-au.er3.xyz:29982, username=415089338401947648, password= a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=㉿澳大利亚
+shadowsocks=cn2.flushingx.com:1487, method=rc4-md5, password=7611866184, fast-open=false, udp-relay=false, tag=ღ寒梅❀
+http=a1.ap.fastqvpn.com:29980, username= 415089338401947648, password=a95e79e3-1243-4e70-8db8-7ce1fa081a22, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=ღ一件连

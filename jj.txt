@@ -1,4 +1,3 @@
-shadowsocks=cn2.flushingx.com:1487, method=rc4-md5, password=7611866184, fast-open=false, udp-relay=false, tag=ღ寒梅❀
 http=a1.ap.fastqvpn.com:29980, username= 433139587389325312, password= 1100a67d-8cb8-45e4-8757-0d288e185215, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连clubhouse
 http=ap1-jp.er3.xyz:29985, username= 433139587389325312, password= 1100a67d-8cb8-45e4-8757-0d288e185215, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连日本
 http=ap1-us.er3.xyz:29988, username= 433139587389325312, password= 1100a67d-8cb8-45e4-8757-0d288e185215, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连美国

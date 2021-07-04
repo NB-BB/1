@@ -31,7 +31,7 @@
 - #### 添加 Gallery
 
   - 任务合集（包含下方整个资源列表）
-
+    
     `https://dove.589669.xyz/task2qxgallery?img=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule`
 
   - 京东合集（仅包含京东任务）
